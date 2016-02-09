@@ -15,7 +15,7 @@
     "arraydiff": "^0.1.1",
     "deep-is": "^0.1.3",
     "uuid": "^2.0.1",
-    "sharedb": "^0.11.0"
+    "sharedb": "git://github.com/psirenny/sharedb.git#202be37eb5039e8eb6fc977515cfa3af665ef029"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
